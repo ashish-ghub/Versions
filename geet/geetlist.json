@@ -1,144 +1,147 @@
-[
 {
-	"song":"Aao Na#$Haiider",
-	"link": ""
+	"tracks":[
+{
+	"track":"Aao Na#$Haiider",
+	"file":""
 },
 {
-	"song":"Bismil#&$Haiider",
-	"link": "http://128f1.downloadming1.com/temp/Haider%20(2014)/02%20-%20Bismil%20-%20DownloadMing.SE.mp3"
+	"track":"Bismil#&$Haiider",
+	"file":"http://128f1.downloadming1.com/temp/Haider%20(2014)/02%20-%20Bismil%20-%20DownloadMing.SE.mp3"
 },
 {
-	"song":"Khul Kabhi#$Haiider",
-	"link": ""
+	"track":"Khul Kabhi#$Haiider",
+	"file": ""
 },
 {
-	"song":"Gulon Mein Rang Bhare#$Haiider",
-	"link": ""
+	"track":"Gulon Mein Rang Bhare#$Haiider",
+	"file": ""
 },
 {
-	"song":"Ek Aur Bismil#$Haiider",
-	"link": ""
+	"track":"Ek Aur Bismil#$Haiider",
+	"file":""
 },
 {
-	"song":"Jhelum#$Haiider",
-	"link": ""
+	"track":"Jhelum#$Haiider",
+	"file":""
 },
 {
-	"song":"So Jao#$Haiider",
-	"link": ""
+	"track":"So Jao#$Haiider",
+	"file": ""
 },
 {
-	"song":"Do Jahaan#$Haiider",
-	"link": ""
+	"track":"Do Jahaan#$Haiider",
+	"file":""
 },
 {
-	"song":"Aaj Ke Naam#$Haiider",
-	"link": ""
+	"track":"Aaj Ke Naam#$Haiider",
+	"file":""
 },
 {
-	"song":"Tu Meri#$Bang Bang",
-	"link": ""
+	"track":"Tu Meri#$Bang Bang",
+	"file":""
 },
 {
-	"song":"Meherbaan#$Bang Bang",
-	"link": ""
+	"track":"Meherbaan#$Bang Bang",
+	"file":""
 },
 {
-	"song":"Uff#$Bang Bang",
-	"link": ""
+	"track":"Uff#$Bang Bang",
+	"file":""
 },
 {
-	"song":"Bang Bang#$Bang Bang",
-	"link": ""
+	"track":"Bang Bang#$Bang Bang",
+	"file":""
 },
 {
-	"song":"Meherbaan Reprise#$Bang Bang",
-	"link": ""
+	"track":"Meherbaan Reprise#$Bang Bang",
+	"file":""
 },
 {
-	"song":"Abhi Toh Party Shuru Hui Hai#$Khoobsurat",
-	"link": ""
+	"track":"Abhi Toh Party Shuru Hui Hai#$Khoobsurat",
+	"file": ""
 },
 {
-	"song":"Engine Ki Seeti#$Khoobsurat",
-	"link": ""
+	"track":"Engine Ki Seeti#$Khoobsurat",
+	"file": ""
 },
 {
-	"song":"Baal Khade#$Khoobsurat",
-	"link": ""
+	"track":"Baal Khade#$Khoobsurat",
+	"file": ""
 },
 {
-	"song":"Preet#$Khoobsurat",
-	"link": ""
+	"track":"Preet#$Khoobsurat",
+	"file": ""
 },
 {
-	"song":"Maa Ka Phone#$Khoobsurat",
-	"link": ""
+	"track":"Maa Ka Phone#$Khoobsurat",
+	"file": ""
 },
 {
-	"song":"Naina#$Khoobsurat",
-	"link": ""
+	"track":"Naina#$Khoobsurat",
+	"file": ""
 },
 {
-	"song":"India Waale#$Happy New Year",
-	"link": ""
+	"track":"India Waale#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"Manwa Laage#$Happy New Year",
-	"link": ""
+	"track":"Manwa Laage#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"Satakli#$Happy New Year",
-	"link": ""
+	"track":"Satakli#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"Lovely#$Happy New Year",
-	"link": ""
+	"track":"Lovely#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"World Dance Medley#$Happy New Year",
-	"link": ""
+	"track":"World Dance Medley#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"Nonsense Ki Night#$Happy New Year",
-	"link": ""
+	"track":"Nonsense Ki Night#$Happy New Year",
+	"file": ""
 },
 
 {
-	"song":"Dance Like A Chammiya#$Happy New Year",
-	"link": ""
+	"track":"Dance Like A Chammiya#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"India Waale Electronic#$Happy New Year",
-	"link": ""
+	"track":"India Waale Electronic#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"The Heist Instrumental#$Happy New Year",
-	"link": ""
+	"track":"The Heist Instrumental#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"Kamlee#$Happy New Year",
-	"link": ""
+	"track":"Kamlee#$Happy New Year",
+	"file": ""
 },
 {
-	"song":"Tere Hoke Rehengay#$Raja Natwarlal",
-	"link": ""
+	"track":"Tere Hoke Rehengay#$Raja Natwarlal",
+	"file": ""
 },
 {
-	"song":"Dukki Tikki#$Raja Natwarlal",
-	"link": ""
+	"track":"Dukki Tikki#$Raja Natwarlal",
+	"file": ""
 },
 {
-	"song":"Kabhi Ruhani Kabhi Rumani#$Raja Natwarlal",
-	"link": ""
+	"track":"Kabhi Ruhani Kabhi Rumani#$Raja Natwarlal",
+	"file": ""
 },
 {
-	"song":"Namak Paare#$Raja Natwarlal",
-	"link": ""
+	"track":"Namak Paare#$Raja Natwarlal",
+	"file": ""
 },
 {
-	"song":"Flip Your Collar Back#$Raja Natwarlal",
-	"link": ""
+	"track":"Flip Your Collar Back#$Raja Natwarlal",
+	"file": ""
 }
 
-]
+ ]
+
+}
