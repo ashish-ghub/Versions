@@ -1,4 +1,4 @@
 {
-"version_code":5,
-"content":"Version  1.1.4 <p>New features:</p><li>Added new Bollywood screen to avoid typing mistake for search</li><li>Added top downloads and home screen</li><li>Data caching to speed up response</li><li>All known Bugs fixed </li>"
+"version_code":6,
+"content":"Version  1.1.6 <p>New features:</p><li>User can set any downloaded song as a ringtone.</li><li>Now songs are stored in SD card's Music folder</li><li>All known Bugs fixed </li>"
 }
