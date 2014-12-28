@@ -8,7 +8,7 @@
 ],
 "datasms":[
 {
-	"category":"Birthday"
+	"category":"Birthday",
 	"paths":[
 	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
 	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
@@ -16,7 +16,7 @@
 
 },
 {
-	"category":"New Year"
+	"category":"New Year",
 	"paths":[
 	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
 	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
@@ -27,14 +27,14 @@
 ],
 "dataquotes":[
 {
-	"category":"Birthday"
+	"category":"Birthday",
 	"paths":[
 	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
 	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
 	]
 },
 {
-	"category":"New Year"
+	"category":"New Year",
 	"paths":[
 	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
 	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
