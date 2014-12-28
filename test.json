@@ -1,0 +1,46 @@
+{
+"version_code":5,
+"content":[
+	{ "desc": "Version 5.0 New features: "},
+	{"desc" : "Memory and performance management"},
+	{"desc" : "App new update available notification"}
+
+],
+"datasms":[
+{
+	"category":"Birthday"
+	"paths":[
+	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
+	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	]
+
+},
+{
+	"category":"New Year"
+	"paths":[
+	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
+	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	]
+}
+
+
+],
+"dataquotes":[
+{
+	"category":"Birthday"
+	"paths":[
+	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
+	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	]
+},
+{
+	"category":"New Year"
+	"paths":[
+	"English" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss",
+	"Hindi" :"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	]
+}
+
+]
+
+}
