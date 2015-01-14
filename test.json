@@ -8,6 +8,16 @@
 ],
 "datasms":[
 {
+	"category":"New Year",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss"
+	 }
+	]
+
+},
+{
 	"category":"Birthday",
 	"paths":[
 	 {
@@ -16,27 +26,49 @@
 	 },
 	 {
 	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20hindi%20messages?alt=rss"
 	 }
-
 	]
 
 },
 {
-	"category":"New Year",
+	"category":"Christmas",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/christmas?alt=rss"
+	 }
+	]
+},
+{
+	"category":"Diwali",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/diwali%20wishes?alt=rss"
 	 },
 	 {
 	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/diwali%20hindi%20wishes?alt=rss"
 	 }
-
 	]
 
-}
+},
+{
+	"category":"Dhanteras",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanters%20wishes?alt=rss"
+	 },
+	 {
+	"language":"Hindi", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanteras%20hindi%20wishes?alt=rss"
+	 }
+	]
+
+},
+
 
 
 ],
@@ -46,13 +78,19 @@
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
-	 },
-	 {
-	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/love%20quotes?alt=rss"
 	 }
 
+	]
+
+},
+{
+	"category":"Strenth",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20strength?alt=rss"
+	 }
 	]
 
 },
@@ -61,16 +99,12 @@
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
-	 },
-	 {
-	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20life?alt=rss"
 	 }
-
 	]
 
 }
+
 
 ]
 
