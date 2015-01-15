@@ -18,6 +18,16 @@
 
 },
 {
+	"category":"Valentines Day",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Valentines?alt=rss"
+	 }
+	]
+
+},
+{
 	"category":"Birthday",
 	"paths":[
 	 {
