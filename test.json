@@ -8,11 +8,21 @@
 ],
 "datasms":[
 {
-	"category":"New Year",
+	"category":"Good Morning",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Goodmorning?alt=rss"
+	 }
+	]
+
+},
+{
+	"category":"Good Night",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Goodnight?alt=rss"
 	 }
 	]
 
@@ -28,6 +38,16 @@
 
 },
 {
+	"category":"Anniversary",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Anniversary?alt=rss"
+	 }
+	]
+
+},
+{
 	"category":"Birthday",
 	"paths":[
 	 {
@@ -37,6 +57,16 @@
 	 {
 	"language":"Hindi", 
 	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20hindi%20messages?alt=rss"
+	 }
+	]
+
+},
+{
+	"category":"New Year",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss"
 	 }
 	]
 
