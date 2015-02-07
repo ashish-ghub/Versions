@@ -6,6 +6,10 @@
 	{"desc" : "App new update available notification"}
 
 ],
+"ads":{
+"imgURL":"http://3.bp.blogspot.com/-B2h_FUfl8ps/VNWAX-l2FEI/AAAAAAAAAGc/QYr5OQEiSSA/s1600/AdsHindiNewsBanner.png",
+"redirect":"market://details?id=expert.apps.hindi.news&hl=en",
+},
 "datasms":[
 {
 	"category":"Good Morning",
