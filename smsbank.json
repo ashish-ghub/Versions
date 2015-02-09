@@ -1,10 +1,10 @@
 {
-"version_code":5,
+"version_code":7,
 "content":[
-	{ "desc": "Version 5.0 New features: "},
+	{ "desc": "Version 1.7 New features: "},
 	{"desc" : "Memory and performance management"},
-	{"desc" : "App new update available notification"}
-
+	{"desc" : "App look and feel improvement"},
+	{"desc" : "Image Message support"}
 ],
 "ads":{
 	"imgURL":"https://lh5.googleusercontent.com/-Vy1Z8KHpseo/VNYNnEbGwoI/AAAAAAAAAGs/YAeu9GUk6cg/h56/img.png",
@@ -16,71 +16,74 @@
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Goodmorning?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Goodmorning?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"Good Night",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Goodnight?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Goodnight?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"Valentines Day",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Valentines?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Valentines?alt=rss&max-results=75"
 	 }
 	]
-
+},
+{
+	"category":"Jokes",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Jokes?alt=rss&max-results=75"
+	 }
+	]
 },
 {
 	"category":"Anniversary",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Anniversary?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Anniversary?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"Birthday",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20messages?alt=rss&max-results=75"
 	 },
 	 {
 	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20hindi%20messages?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/birthday%20hindi%20messages?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"New Year",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"Christmas",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/christmas?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/christmas?alt=rss&max-results=75"
 	 }
 	]
 },
@@ -89,30 +92,27 @@
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/diwali%20wishes?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/diwali%20wishes?alt=rss&max-results=75"
 	 },
 	 {
 	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/diwali%20hindi%20wishes?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/diwali%20hindi%20wishes?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"Dhanteras",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanters%20wishes?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanters%20wishes?alt=rss&max-results=75"
 	 },
 	 {
 	"language":"Hindi", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanteras%20hindi%20wishes?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanteras%20hindi%20wishes?alt=rss&max-results=75"
 	 }
 	]
-
 }
-
 ],
 "dataquotes":[
 {
@@ -120,34 +120,40 @@
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/love%20quotes?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/love%20quotes?alt=rss&max-results=75"
 	 }
-
 	]
-
 },
 {
 	"category":"Strenth",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20strength?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20strength?alt=rss&max-results=75"
 	 }
 	]
-
 },
 {
 	"category":"Life",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20life?alt=rss"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20life?alt=rss&max-results=75"
 	 }
 	]
-
 }
+],
 
-
+"usermesg":[
+{
+	"category":"User Message Feed",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://latest-messages.blogspot.in/feeds/posts/default?alt=rss&max-results=75"
+	 }
+	]
+}
 ]
 
 }
