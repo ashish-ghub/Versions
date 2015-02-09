@@ -153,7 +153,15 @@
 	"url":"http://latest-messages.blogspot.in/feeds/posts/default?alt=rss&max-results=75"
 	 }
 	]
+},
+{
+	"category":"User Quotes Feed",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://allquotessms.blogspot.in/feeds/posts/default/?alt=rss&max-results=75"
+	 }
+	]
 }
 ]
-
 }
