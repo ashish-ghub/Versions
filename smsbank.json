@@ -1,8 +1,9 @@
 {
-"version_code":7,
+"version_code":8,
 "content":[
-	{ "desc": "Version 1.7 New features: "},
-	{"desc" : "Memory and performance management"},
+	{ "desc": "Version 1.8 New features: "},
+	{"desc" : "Showing user message feed"},
+	{"desc" : "User can submit messages to live feed"},
 	{"desc" : "App look and feel improvement"},
 	{"desc" : "Image Message support"}
 ],
