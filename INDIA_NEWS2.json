@@ -14,6 +14,7 @@
 "feednews":[
 {
 "type":"Hindi",
+"position":"1",
 "info":[
 		{
 			"source":"NDTV News",
@@ -214,6 +215,7 @@
 
 {
 "type":"English",
+"position":"2",
 "info":[
 		{
 			"source":"The Hindu",
@@ -366,6 +368,7 @@
 
 {
 "type":"Business",
+"position":"3",
 "info":[
 		{
 			"source":"Economic Times",
@@ -464,6 +467,7 @@
 },
 {
 "type":"Entertainment",
+"position":"4",
 "info":[
 		{
 			"source":"Bollywood Hungama",
@@ -486,6 +490,7 @@
 },
 {
 "type":"Sports",
+"position":"5",
 "info":[
 		{
 			"source":"ESPN Cricinfo",
@@ -514,6 +519,7 @@
 },
 {
 "type":"Gujarati",
+"position":"6",
 "info":[
 		{
 			"source":"OneIndia Gujarati",
@@ -566,6 +572,7 @@
 },
 {
 "type":"Telugu",
+"position":"7",
 "info":[
 		{
 			"source":"OneIndia Telugu",
@@ -582,6 +589,7 @@
 },
 {
 "type":"Tamil",
+"position":"8",
 "info":[
 		{
 			"source":"OneIndia Tamil",
@@ -613,6 +621,7 @@
 "webnews":[
 {
 "type":"English",
+"position":"2",
 "info":[
 		{
 			"source":"The Hindu",
@@ -729,6 +738,7 @@
 },
 {
 "type":"Hindi",
+"position":"1",
 "info":[
 		{
 			"source":"BBC Hindi",
@@ -845,6 +855,7 @@
 },
 {
 "type":"Business",
+"position":"3",
 "info":[
 		{
 			"source":"Economic Times",
@@ -917,6 +928,7 @@
 },
 {
 "type":"Entertainment",
+"position":"4",
 "info":[
 		{
 			"source":"Bollywood Hhungama",
@@ -966,6 +978,7 @@
 },
 {
 "type":"Telugu",
+"position":"5",
 "info":[
 		{
 			"source":"OneIndia Telugu",
@@ -993,6 +1006,7 @@
 },
 {
 "type":"Tamil",
+"position":"6",
 "info":[
 		{
 			"source":"OneIndia Tamil",
@@ -1031,6 +1045,7 @@
 },
 {
 "type":"Gujarati",
+"position":"7",
 "info":[
 		{
 			"source":"Webdunia Gujarati",
@@ -1046,7 +1061,8 @@
 	]	
 },
 {
-"type":"Gujarati",
+"type":"Cricket",
+"position":"8",
 "info":[
 		{
 			"source":"ESPN Cricinfo",
