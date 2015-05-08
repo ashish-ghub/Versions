@@ -1,13 +1,13 @@
 {
-"version_code":15,
+"version_code":17,
 "content":[
-	{ "desc": "Version  3.5  New features: "},
-	{"desc" : "Caches news to reduce the data usage."},
-	{"desc" : "Allows offline news reading"},
+	{ "desc": "Version  3.7  New features: "},
+	{"desc" : "User Settings page to add/arrange/delete source"},
+	{"desc" : "User feeds and portal subscription page and agreement"},
 	{"desc" : "App look and feel improvement"}
 ],
 "ads":{
-	"imgURL":"https://lh5.googleusercontent.com/-Vy1Z8KHpseo/VNYNnEbGwoI/AAAAAAAAAGs/YAeu9GUk6cg/h56/img.png",
+	"imgURL":"http://freeapps-expertdev.rhcloud.com/logos/AdsFreeMSGBanner.png",
 	"redirect":"market://details?id=expert.apps.hindi.news&hl=en"
 },
 
