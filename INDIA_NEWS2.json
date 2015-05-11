@@ -1,7 +1,7 @@
 {
-"version_code":17,
+"version_code":18,
 "content":[
-	{ "desc": "Version  3.7  New features: "},
+	{ "desc": "Version  3.8  New features: "},
 	{"desc" : "User Settings page to add/arrange/delete source"},
 	{"desc" : "User feeds and portal subscription page and agreement"},
 	{"desc" : "App look and feel improvement"}
