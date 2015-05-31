@@ -142,7 +142,26 @@
 	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/quotes%20about%20life?alt=rss&max-results=75"
 	 }
 	]
+},
+{
+	"category":"Inspirational",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/inspirational?alt=rss&max-results=75"
+	 }
+	]
+},
+{
+	"category":"Friendship",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/friendship%20quotes?alt=rss&max-results=75"
+	 }
+	]
 }
+
 ],
 
 "usermesg":[
