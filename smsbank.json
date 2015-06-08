@@ -31,11 +31,11 @@
 	]
 },
 {
-	"category":"Valentines Day",
+	"category":"Friendship Day",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Valentines?alt=rss&max-results=75"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Friendship%20day?alt=rss&max-results=75"
 	 }
 	]
 },
@@ -45,6 +45,33 @@
 	 {
 	"language":"English", 
 	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Jokes?alt=rss&max-results=75"
+	 }
+	]
+},
+{
+	"category":"Shayari",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/shayari?alt=rss&max-results=75"
+	 }
+	]
+},
+{
+	"category":"Husband Wife",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/shayari?alt=rss&max-results=75"
+	 }
+	]
+},
+{
+	"category":"Valentines Day",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Valentines?alt=rss&max-results=75"
 	 }
 	]
 },
@@ -111,6 +138,15 @@
 	 {
 	"language":"Hindi", 
 	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/dhanteras%20hindi%20wishes?alt=rss&max-results=75"
+	 }
+	]
+},
+{
+	"category":"Adults (Age < 18)",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Adults?alt=rss&max-results=75"
 	 }
 	]
 }
