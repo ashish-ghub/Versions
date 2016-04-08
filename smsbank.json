@@ -44,11 +44,24 @@
 	]
 },
 {
-	"category":"Friendship Day",
+	"category":"Navratri",
 	"paths":[
 	 {
 	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Friendship%20day?alt=rss&max-results=125"
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/navratri?alt=rss&max-results=125"
+	 }
+	]
+},
+{
+	"category":"New Year",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss&max-results=125"
+	 },
+	 {
+	"language":"Hindi", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/newYear_HN?alt=rss&max-results=125"
 	 }
 	]
 },
@@ -94,6 +107,15 @@
 	]
 },
 {
+	"category":"Friendship Day",
+	"paths":[
+	 {
+	"language":"English", 
+	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/Friendship%20day?alt=rss&max-results=125"
+	 }
+	]
+},
+{
 	"category":"Valentines Day",
 	"paths":[
 	 {
@@ -130,15 +152,6 @@
 	 {
 	"language":"English", 
 	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/funnyImg?alt=rss&max-results=125"
-	 }
-	]
-},
-{
-	"category":"New Year",
-	"paths":[
-	 {
-	"language":"English", 
-	"url":"http://sms-festival-wishes-jokes.blogspot.in/feeds/posts/default/-/new%20year?alt=rss&max-results=125"
 	 }
 	]
 },
