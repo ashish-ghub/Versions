@@ -339,6 +339,7 @@
 
 			]
 		},
+
 		{
 			"source":"\u0928\u094D\u092F\u0942\u095B 18",
 			"position":"4",
@@ -346,6 +347,17 @@
 			 {
 			"category":"Latest",
 			"url":"http://hindi.news18.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"\u0926\u093f\u0932\u0947\u0930 \u0938\u092e\u093e\u091a\u093e\u0930",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.dilersamachar.com/"
 			 }
 
 			]
@@ -379,6 +391,17 @@
 			 {
 			"category":"Latest",
 			"url":"http://rajasthanpatrika.patrika.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
+			"position":"7",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.cnmsports.com/"
 			 }
 
 			]
@@ -457,6 +480,17 @@
 			 {
 			"category":"Latest",
 			"url":"http://m.dw.de/hindi"
+			 }
+
+			]
+		},
+		{
+			"source":"\u0915\u094d\u0930\u093f\u0915\u0947\u091f \u090f\u0902\u0921 \u092e\u094b\u0930",
+			"position":"14",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.cricketnmore.com/"
 			 }
 
 			]
