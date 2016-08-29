@@ -43,7 +43,7 @@
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://aajtak.intoday.in.feedsportal.com/c/34152/f/618432/index.rss?option=com_rss&feed=RSS1.0&no_html=1&rsspage=home"
+			"url":"http://aajtak.intoday.in/rssfeeds/?feed=rss1.0&no_html=1&rsspage=home"
 			 }
 
 			]
@@ -67,10 +67,6 @@
 			 {
 			"category":"Latest",
 			"url":"http://hindi.sportskeeda.com/feed"
-			 },
-			 {
-			"category":"sports",
-			"url":"http://hindi.sportskeeda.com/category/wwe/feed"
 			 }
 
 			]
