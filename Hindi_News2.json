@@ -17,21 +17,56 @@
 "position":"1",
 "info":[
 		{
-			"source":"\u090F\u0928\u0921\u0940\u091F\u0940\u0935\u0940 \u0916\u092C\u0930",
+			"source":"\u0917\u0941\u0917\u0932 \u0938\u092E\u093E\u091A\u093E\u0930",
 			"position":"1",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://feeds.feedburner.com/ndtvkhabar"
-			 },
+			"url":"https://news.google.co.in/news/feeds?cf=all&ned=hi_in&hl=hi&output=rss"
+			 }
 
+			]
+		},
+		{
+			"source":"\u0935\u0928\u0907\u0902\u0921\u093F\u092F\u093E \u0939\u093F\u0928\u094D\u0926\u0940",
+			"position":"2",
+			"paths":[
 			 {
-			"category":"Bollywood",
-			"url":"http://feeds.feedburner.com/Khabar-Movies"
-			 },
+			"category":"Latest",
+			"url":"http://hindi.oneindia.com/rss/hindi-news-fb.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"\u0928\u094D\u092F\u0942\u095B 18",
+			"position":"2",
+			"paths":[
 			 {
-			"category":"Business", 
-			"url":"http://feeds.feedburner.com/Khabar-Business"
+			"category":"Latest",
+			"url":"http://hindi.pradesh18.com/rss/live-news.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"\u091f\u0941\u0921\u0947 \u0938\u092e\u093e\u091a\u093e\u0930",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://todaysamachar.in/rss"
+			 }
+			]
+		},
+		
+		{
+			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0915\u0940\u0921\u093c\u093e",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.sportskeeda.com/feed"
 			 }
 
 			]
@@ -48,68 +83,33 @@
 			]
 		},
 		{
-			"source":"\u091f\u0941\u0921\u0947 \u0938\u092e\u093e\u091a\u093e\u0930",
-			"position":"2",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://todaysamachar.in/rss"
-			 }
-			]
-		},
-		{
-			"source":"\u0935\u0928\u0907\u0902\u0921\u093F\u092F\u093E \u0939\u093F\u0928\u094D\u0926\u0940",
-			"position":"2",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://hindi.oneindia.com/rss/hindi-news-fb.xml"
-			 }
-
-			]
-		},
-		
-		{
-			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0915\u0940\u0921\u093c\u093e",
-			"position":"3",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://hindi.sportskeeda.com/feed"
-			 }
-
-			]
-		},
-		
-		{
-			"source":"\u090F\u092C\u0940\u092A\u0940 \u0928\u094D\u092F\u0942\u091C\u093C",
+			
+			"source":"\u0906\u0908\u092C\u0940\u090F\u0928 \u0916\u092C\u0930",
 			"position":"4",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.abplive.in/feed"
-			 }
+			"url":"http://khabar.ibnlive.com/rss/khabar/desh/desh.xml"
+			 },
 
-			]
-		},
-		{
-			"source":"\u0917\u0941\u0917\u0932 \u0938\u092E\u093E\u091A\u093E\u0930",
-			"position":"5",
-			"paths":[
 			 {
-			"category":"Latest",
-			"url":"https://news.google.co.in/news/feeds?cf=all&ned=hi_in&hl=hi&output=rss"
+			"category":"Political",
+			"url":"http://khabar.ibnlive.com/rss/khabar/politics/politics.xml"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://khabar.ibnlive.com/rss/khabar/karobar/karobar.xml"
 			 }
 
 			]
 		},
 		{
 			"source":"\u0905\u092E\u0930 \u0909\u091C\u093E\u0932\u093E",
-			"position":"6",
+			"position":"5",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.amarujala.com/rss/breaking-news.xml"
+			"url":"http://www.amarujala.com/rss/national-news.xml"
 			 },
 
 			 {
@@ -119,6 +119,21 @@
 			 {
 			"category":"Business",
 			"url":"http://www.amarujala.com/rss/business-news.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"\u0928\u0908\u0926\u0941\u0928\u093f\u092f\u093e",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://rss.jagran.com/naidunia/topnews.xml"
+			 },
+			 {
+			"category":"Political",
+			"url":"http://rss.jagran.com/naidunia/latest-news.xml"
 			 }
 
 			]
@@ -158,17 +173,6 @@
 			]
 		},
 		{
-			"source":"\u0928\u094D\u092F\u0942\u095B 18",
-			"position":"9",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://hindi.news18.com/rss/topheadlines/uttar-pradesh.xml"
-			 }
-
-			]
-		},
-		{
 			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
 			"position":"9",
 			"paths":[
@@ -180,18 +184,6 @@
 			]
 		},
 		
-		
-		{
-			"source":"\u092A\u0940 7 \u0928\u094D\u092F\u0942\u095B ",
-			"position":"10",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.p7news.tv/top-news.feed?type=rss"
-			 }
-
-			]
-		},
 		{
 			"source":"\u0939\u0930\u093F\u092D\u0942\u092E\u093F",
 			"position":"11",
@@ -199,27 +191,6 @@
 			 {
 			"category":"Latest",
 			"url":"http://www.haribhoomi.com/rss/feed.aspx?catid=3"
-			 }
-
-			]
-		},
-		{
-			
-			"source":"\u0906\u0908\u092C\u0940\u090F\u0928 \u0916\u092C\u0930",
-			"position":"12",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://khabar.ibnlive.com/rss/khabar/desh/desh.xml"
-			 },
-
-			 {
-			"category":"Political",
-			"url":"http://khabar.ibnlive.com/rss/khabar/politics/politics.xml"
-			 },
-			 {
-			"category":"Business",
-			"url":"http://khabar.ibnlive.com/rss/khabar/karobar/karobar.xml"
 			 }
 
 			]
@@ -298,17 +269,6 @@
 			 {
 			"category":"Latest",
 			"url":"http://ranchiexpress.com/feed"
-			 }
-
-			]
-		},
-		{
-			"source":"\u091C\u093E\u0928\u094B \u0926\u0941\u0928\u093F\u092F\u093E",
-			"position":"20",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://feeds.feedburner.com/janokti/pfzK"
 			 }
 
 			]
