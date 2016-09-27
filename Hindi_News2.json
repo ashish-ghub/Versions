@@ -36,7 +36,6 @@
 
 			]
 		},
-		
 		{
 			"source":"\u0906\u091C \u0924\u0915",
 			"position":"4",
@@ -46,6 +45,16 @@
 			"url":"http://aajtak.intoday.in/rssfeeds/?feed=rss1.0&no_html=1&rsspage=home"
 			 }
 
+			]
+		},
+		{
+			"source":"\u091f\u0941\u0921\u0947 \u0938\u092e\u093e\u091a\u093e\u0930",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://todaysamachar.in/rss"
+			 }
 			]
 		},
 		{
@@ -69,17 +78,6 @@
 			"url":"http://hindi.sportskeeda.com/feed"
 			 }
 
-			]
-		},
-		
-		{
-			"source":"\u092a\u0924\u094d\u0930\u093f\u0915\u093e MP",
-			"position":"4",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://api.patrika.com/web/rss.php?q=section&v=345"
-			 }
 			]
 		},
 		
