@@ -65,27 +65,27 @@
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"https://hindi.sportscafe.in/rss/articles?full_content=true"
+			"url":"https://hindi.sportscafe.in/rss/articles?utm_source=hindinews"
 			 },
 			 {
 			"category":"Cricket",
-			"url":"https://hindi.sportscafe.in/rss/articles/cricket?full_content=true"
+			"url":"https://hindi.sportscafe.in/rss/articles/cricket?utm_source=hindinews"
 			 },
 			 {
 			"category":"Football",
-			"url":"https://hindi.sportscafe.in/rss/articles/football?full_content=true"
+			"url":"https://hindi.sportscafe.in/rss/articles/football?utm_source=hindinews"
 			 },
 			 {
 			"category":"Tennis",
-			"url":"https://hindi.sportscafe.in/rss/articles/tennis?full_content=true"
+			"url":"https://hindi.sportscafe.in/rss/articles/tennis?utm_source=hindinews"
 			 },
 			 {
 			"category":"hockey",
-			"url":"https://hindi.sportscafe.in/rss/articles/hockey?full_content=true"
+			"url":"https://hindi.sportscafe.in/rss/articles/hockey?utm_source=hindinews"
 			 },
 			 {
 			"category":"Badminton",
-			"url":"https://hindi.sportscafe.in/rss/articles/badminton?full_content=true"
+			"url":"https://hindi.sportscafe.in/rss/articles/badminton?utm_source=hindinews"
 			 }
 			]
 		},
