@@ -1,4 +1,1071 @@
 {
-"version_code":15,
-"content":"Version  3.5 <p>New features:</p><li>Caches news to reduce the data usage.</li><li>Allows offline news reading</li>"
+"version_code":18,
+"content":[
+	{ "desc": "Version  3.8  New features: "},
+	{"desc" : "User Settings page to add/arrange/delete source"},
+	{"desc" : "User feeds and portal subscription page and agreement"},
+	{"desc" : "App look and feel improvement"}
+],
+"ads":{
+	"imgURL":"http://freeapps-expertdev.rhcloud.com/logos/AdsFreeMSGBanner.png",
+	"redirect":"market://details?id=expert.apps.sms.wishes&hl=en"
+},
+
+"feednews":[
+{
+"type":"Hindi",
+"position":"1",
+"info":[
+		{
+			"source":"NDTV News",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://feeds.feedburner.com/ndtvkhabar"
+			 },
+
+			 {
+			"category":"Bollywood",
+			"url":"http://feeds.feedburner.com/Khabar-Movies"
+			 },
+			 {
+			"category":"Business", 
+			"url":"http://feeds.feedburner.com/Khabar-Business"
+			 }
+
+			]
+		},
+		{
+			"source":"Aajtak",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://aajtak.intoday.in.feedsportal.com/c/34152/f/618432/index.rss?option=com_rss&feed=RSS1.0&no_html=1&rsspage=home"
+			 }
+
+			]
+		},
+		{
+			"source":"Oneindia Hindi",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.oneindia.com/rss/hindi-news-fb.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"IBN Khabar",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://khabar.ibnlive.in.com/xml/top.xml"
+			 },
+
+			 {
+			"category":"Political",
+			"url":"http://khabar.ibnlive.in.com/xml/rss/politics/politicsnews.xml"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://khabar.ibnlive.in.com/xml/rss/karobar/karobar.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"Google News Hindi",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"https://news.google.co.in/news/feeds?cf=all&ned=hi_in&hl=hi&output=rss"
+			 }
+
+			]
+		},
+		{
+			"source":"Amar Ujala",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.amarujala.com/rss/breaking-news.xml"
+			 },
+
+			 {
+			"category":"Sports", 
+			"url":"http://www.amarujala.com/rss/sports-news.xml"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://www.amarujala.com/rss/business-news.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"Hindustan",
+			"position":"7",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.livehindustan.com/home/rssfeed/1.html"
+			 },
+			 {
+			"category":"Bollywood",
+			"url":"http://www.livehindustan.com/home/rssfeed/28.html"
+			 },
+			 {
+			"category":"Sports",
+			"url":"http://www.livehindustan.com/home/rssfeed/3.html"
+			 },
+			 {
+			"category":"Business", 
+			"url":"http://www.livehindustan.com/home/rssfeed/45.html"
+			 }
+
+			]
+		},
+		{
+			"source":"Navbharat Times",
+			"position":"8",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+			 }
+
+			]
+		},
+		{
+			"source":"P7 News",
+			"position":"9",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.p7news.tv/top-news.feed?type=rss"
+			 }
+
+			]
+		},
+		{
+			"source":"Mahanagar Times",
+			"position":"10",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.mahanagartimes.net/feed"
+			 }
+
+			]
+		},
+		{
+			"source":"Pressnote",
+			"position":"11",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://www.pressnote.in/rss/rss.php"
+			 }
+
+			]
+		},
+		{
+			"source":"Janokti",
+			"position":"13",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://feeds.feedburner.com/janokti/pfzK"
+			 }
+
+			]
+		},
+		{
+			"source":"Tehelka Hindi",
+			"position":"14",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://tehelkahindi.com/feed/"
+			 }
+
+			]
+		}
+
+		]
+},
+
+{
+"type":"English",
+"position":"2",
+"info":[
+		{
+			"source":"The Hindu",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://www.thehindu.com/?service=rss"
+			 },
+
+			 {
+			"category":"Sports",
+			"url":"http://www.thehindu.com/sport/?service=rss"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://www.thehindu.com/business/?service=rss"
+			 },
+			 {
+			"category":"Technology",
+			"url":"http://www.thehindu.com/sci-tech/?service=rss"
+			 }
+
+			]
+		},
+		{
+			"source":"Deccan Herald",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.deccanherald.com/rss/national.rss"
+			 },
+			 {
+			"category":"Sports",
+			"url":"http://www.deccanherald.com/rss/sports.rss"
+			 }
+
+			]
+		},
+		{
+			"source":"NDTV",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://feeds.feedburner.com/NdtvNews-TopStories"
+			 },
+			 {
+			"category":"Bollywood",
+			"url":"http://feeds.feedburner.com/NDTV-Ent"
+			 },
+			 {
+			"category":"Sports",
+			"url":"http://feeds.feedburner.com/NDTV-Cricket"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://feeds.feedburner.com/NDTV-Business"
+			 }
+
+			]
+		},
+		{
+			"source":"Hindustan Times",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://feeds.hindustantimes.com/HT-HomePage-TopStories"
+			 },
+			 {
+			"category":"Sports", 
+			"url":"http://feeds.hindustantimes.com/HT-Cricket-TopStories"
+			 },
+			 {
+			"category":"Business", 
+			"url":"http://feeds.hindustantimes.com/HT-BusinessSectionpage-TopStories"
+			 }
+
+			]
+		},
+		{
+			"source":"Reuters",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://feeds.reuters.com/reuters/INtopNews"
+			 },
+			 {
+			"category":"Sports",
+			"url":"http://feeds.reuters.com/reuters/INcricketNews"
+			 },
+			 {
+			"category":"Business", 
+			"url":"http://feeds.reuters.com/reuters/INbusinessNews"
+			 }
+
+			]
+		},
+		{
+			"source":"Google News",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"https://news.google.co.in/news/feeds?pz=1&cf=all&ned=in&hl=en&output=rss"
+			 }
+
+			]
+		},
+		{
+			"source":"Oneindia",
+			"position":"7",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://news.oneindia.in/rss/news-india-fb.xml"
+			 },
+			 {
+			"category":"Sports", 
+			"url":"http://news.oneindia.in/rss/news-sports-fb.xml"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://news.oneindia.in/rss/news-business-fb.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"India Today",
+			"position":"8",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://indiatoday.feedsportal.com/c/33614/f/589699/index.rss?http://indiatoday.intoday.in/rss/homepage-topstories.jsp"
+			 },
+			 {
+			"category":"Sports",
+			"url":"http://indiatoday.feedsportal.com/c/33614/f/589706/index.rss?http://indiatoday.intoday.in/rss/article.jsp?sid=84"
+			 }
+
+			]
+		}
+
+		]
+},
+
+{
+"type":"Business",
+"position":"3",
+"info":[
+		{
+			"source":"Economic Times",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://economictimes.indiatimes.com/rssfeedstopstories.cms"
+			 },
+
+			 {
+			"category":"Stocks",
+			"url":"http://economictimes.indiatimes.com/rssfeeds/2146842.cms"
+			 }
+
+			]
+		},
+		{
+			"source":"Business Standard",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.business-standard.com/rss/latest.rss"
+			 },
+			 {
+			"category":"Popular", 
+			"url":"http://www.business-standard.com/rss/todays-paper.rss"
+			 }
+
+			]
+		},
+		{
+			"source":"Financial Express",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://syndication.financialexpress.com/rss/latest-news.xml"
+			 },
+			 {
+			"category":"Market", 
+			"url":"http://syndication.financialexpress.com/rss/96/markets.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"Business Today",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://businesstoday.feedsportal.com/c/33681/f/593013/index.rss?http://businesstoday.intoday.in/rss/rssstory.jsp?sid=105"
+			 },
+			 {
+			"category":"Market", 
+			"url":"http://businesstoday.feedsportal.com/c/33681/f/593059/index.rss?http://businesstoday.intoday.in/rss/rssstory.jsp?sid=111"
+			 },
+			 {
+			"category":"Technology",
+			"url":"http://businesstoday.feedsportal.com/c/33681/f/593062/index.rss?http://businesstoday.intoday.in/rss/rssstory.jsp?sid=110"
+			 }
+
+			]
+		},
+		{
+			"source":"Money Control",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://moneycontrol.com/rss/latestnews.xml"
+			 },
+			 {
+			"category":"Market",
+			"url":"http://moneycontrol.com/rss/business.xml"
+			 },
+			 {
+			"category":"Popular",
+			"url":"http://moneycontrol.com/rss/mostpopular.xml"
+			 },
+			 {
+			"category":"Stocks", 
+			"url":"http://moneycontrol.com/rss/buzzingstocks.xml"
+			 },
+			 {
+			"category":"Commodity",
+			"url":"http://moneycontrol.com/rss/commodities.xml"
+			 }
+
+			]
+		}
+
+		]
+},
+{
+"type":"Entertainment",
+"position":"4",
+"info":[
+		{
+			"source":"Bollywood Hungama",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.bollywoodhungama.com/rss/news.xml"
+			 },
+
+			 {
+			"category":"Movie Review", 
+			"url":"http://www.bollywoodhungama.com/rss/movie_reviews.xml"
+			 }
+
+			]
+		}
+
+	]
+},
+{
+"type":"Sports",
+"position":"5",
+"info":[
+		{
+			"source":"ESPN Cricinfo",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://espncricinfo.com/rss/content/story/feeds/0.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"Cricbuzz",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://live-feeds.cricbuzz.com/CricbuzzFeed"
+			 }
+
+			]
+		}
+
+	]
+},
+{
+"type":"Gujarati",
+"position":"6",
+"info":[
+		{
+			"source":"OneIndia Gujarati",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://gujarati.oneindia.in/rss/gujarati-news-fb.xml"
+			 },
+			 {
+			"category":"Bollywood",
+			"url":"http://gujarati.oneindia.in/rss/gujarati-movies-fb.xml"
+			 },
+			 {
+			"category":"Business",
+			"url":"gujarati.oneindia.in/rss/gujarati-business-fb.xml"
+			 },
+			 {
+			"category":"Sports", 
+			"url":"gujarati.oneindia.in/rss/gujarati-sports-fb.xml"
+			 }
+
+			]
+		},
+		{
+			"source":"Sandesh",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://www.sandesh.com/cms/xml/National.xml"
+			 },
+			 {
+			"category":"Bollywood", 
+			"url":"http://www.sandesh.com/cms/xml/Bollywood%20News.xml"
+			 },
+			 {
+			"category":"Business",
+			"url":"http://www.sandesh.com/cms/xml/Business%20News.xml"
+			 },
+			 {
+			"category":"Sports", 
+			"url":"http://www.sandesh.com/cms/xml/Sports.xml"
+			 }
+
+			]
+		}
+
+	]
+},
+{
+"type":"Telugu",
+"position":"7",
+"info":[
+		{
+			"source":"OneIndia Telugu",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://telugu.oneindia.in/rss/telugu-news-fb.xml"
+			 }
+			]
+		}
+
+	]
+},
+{
+"type":"Tamil",
+"position":"8",
+"info":[
+		{
+			"source":"OneIndia Tamil",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://tamil.oneindia.in/rss/tamil-news-fb.xml"
+			 }
+			]
+		},
+		{
+			"source":"Dinamani",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://dinamani.com/india/?widgetName=rssfeed&widgetId=1162902&getXmlFeed=true"
+			 }
+			]
+		}
+
+	]
+}
+
+],
+
+
+"webnews":[
+{
+"type":"English",
+"position":"2",
+"info":[
+		{
+			"source":"The Hindu",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.thehindu.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Times Of India",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.timesofindia.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Indian Express",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.indianexpress.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"NDTV",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.ndtv.com"
+			 }
+
+			]
+		},
+		{
+			"source":"Reuters",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://in.reuters.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"DNA",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.dnaindia.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Deccan Herald",
+			"position":"7",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.deccanherald.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"India TV",
+			"position":"8",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.indiatvnews.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Oneindia News",
+			"position":"9",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://news.oneindia.in/"
+			 }
+
+			]
+		},
+		{
+			"source":"India Today",
+			"position":"10",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.indiatoday.in"
+			 }
+
+			]
+		}
+		
+	]
+},
+{
+"type":"Hindi",
+"position":"1",
+"info":[
+		{
+			"source":"BBC Hindi",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://mobile.bbc.co.uk/hindi"
+			 }
+
+			]
+		},
+		{
+			"source":"IBN Khabar",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.ibnkhabar.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Aajtak",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.aajtak.in"
+			 }
+
+			]
+		},
+		{
+			"source":"Zee News",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://zeenews.india.com/hindi/"
+			 }
+
+			]
+		},
+		{
+			"source":"Navbharat Times",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.nbt.in/text/index.php"
+			 }
+
+			]
+		},
+		{
+			"source":"Hindustan",
+			"position":"7",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.livehindustan.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Oneindia Hindi",
+			"position":"8",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.oneindia.in/"
+			 }
+
+			]
+		},
+		{
+			"source":"Punjab Kesari",
+			"position":"9",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.punjabkesari.in/"
+			 }
+
+			]
+		},
+		{
+			"source":"Deutsche Welle",
+			"position":"10",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.dw.de/hindi"
+			 }
+
+			]
+		}
+		
+	]
+},
+{
+"type":"Business",
+"position":"3",
+"info":[
+		{
+			"source":"Economic Times",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.economictimes.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Money Control",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.moneycontrol.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Business Standard",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://wap.business-standard.com/wapnew/index.html"
+			 }
+
+			]
+		},
+		{
+			"source":"Financial Express",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.financialexpress.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Business Today",
+			"position":"5",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.businesstoday.in/"
+			 }
+
+			]
+		},
+		{
+			"source":"CNBC Awaaz",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.moneycontrol.com/tv/"
+			 }
+
+			]
+		}
+		
+	]
+},
+{
+"type":"Entertainment",
+"position":"4",
+"info":[
+		{
+			"source":"Bollywood Hhungama",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.bollywoodhungama.com/en/h5/"
+			 }
+
+			]
+		},
+		{
+			"source":"Glamsham",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.glamsham.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Santa Banta",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.santabanta.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Oneindia Bollywood",
+			"position":"4",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.oneindia.in/entertainment/"
+			 }
+
+			]
+		}
+	]
+},
+{
+"type":"Telugu",
+"position":"5",
+"info":[
+		{
+			"source":"OneIndia Telugu",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.oneindia.in/telugu/"
+			 }
+
+			]
+		},
+		{
+			"source":"Andhra Prabha",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.andhraprabha.com"
+			 }
+
+			]
+		}
+	]	
+},
+{
+"type":"Tamil",
+"position":"6",
+"info":[
+		{
+			"source":"OneIndia Tamil",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.oneindia.in/tamil/"
+			 }
+
+			]
+		},
+		{
+			"source":"BBC Tamil",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.bbc.co.uk/tamil/mobile/"
+			 }
+
+			]
+		},
+		{
+			"source":"Google News Tamil",
+			"position":"3",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"https://news.google.co.in/news?pz=1&hl=ta&tab=nn"
+			 }
+
+			]
+		}
+	]
+},
+{
+"type":"Gujarati",
+"position":"7",
+"info":[
+		{
+			"source":"Webdunia Gujarati",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://gujarati.webdunia.com/newsworld/news/"
+			 }
+
+			]
+		}
+	]	
+},
+{
+"type":"Cricket",
+"position":"8",
+"info":[
+		{
+			"source":"ESPN Cricinfo",
+			"position":"1",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m.espncricinfo.com/"
+			 }
+
+			]
+		},
+		{
+			"source":"Cricbuzz",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://m4.cricbuzz.com/l"
+			 }
+
+			]
+		}
+	]	
+}
+
+]
 }
