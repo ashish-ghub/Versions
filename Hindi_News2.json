@@ -65,27 +65,27 @@
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"https://hindi.sportscafe.in/rss/articles?utm_source=hindinews"
+			"url":"https://hindi.sportscafe.in/rss/articles?full_content=true"
 			 },
 			 {
 			"category":"Cricket",
-			"url":"https://hindi.sportscafe.in/rss/articles/cricket?utm_source=hindinews"
+			"url":"https://hindi.sportscafe.in/rss/articles/cricket?full_content=true"
 			 },
 			 {
 			"category":"Football",
-			"url":"https://hindi.sportscafe.in/rss/articles/football?utm_source=hindinews"
+			"url":"https://hindi.sportscafe.in/rss/articles/football?full_content=true"
 			 },
 			 {
 			"category":"Tennis",
-			"url":"https://hindi.sportscafe.in/rss/articles/tennis?utm_source=hindinews"
+			"url":"https://hindi.sportscafe.in/rss/articles/tennis?full_content=true"
 			 },
 			 {
 			"category":"hockey",
-			"url":"https://hindi.sportscafe.in/rss/articles/hockey?utm_source=hindinews"
+			"url":"https://hindi.sportscafe.in/rss/articles/hockey?full_content=true"
 			 },
 			 {
 			"category":"Badminton",
-			"url":"https://hindi.sportscafe.in/rss/articles/badminton?utm_source=hindinews"
+			"url":"https://hindi.sportscafe.in/rss/articles/badminton?full_content=true"
 			 }
 			]
 		},
@@ -248,17 +248,6 @@
 			]
 		},
 		{
-			"source":"\u0926\u0948\u0928\u093F\u0915 \u092D\u093E\u0938\u094D\u0915\u0930",
-			"position":"15",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.bhaskar.com/dainikbhaskar2010/scripts/bhaskar-rss.php?cat_id=2322"
-			 }
-
-			]
-		},
-		{
 			"source":"\u091C\u0928\u094B\u0915\u094D\u0924\u093F",
 			"position":"16",
 			"paths":[
@@ -348,19 +337,7 @@
 
 			]
 		}, 
-       {
-			"source":"\u0926\u0948\u0928\u093F\u0915 \u092D\u093E\u0938\u094D\u0915\u0930 ",
-			"position":"3",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://m.bhaskar.com/home.php"
-			 }
-
-			]
-		},
-
-		{
+       	{
 			"source":"\u0928\u094D\u092F\u0942\u095B 18",
 			"position":"4",
 			"paths":[

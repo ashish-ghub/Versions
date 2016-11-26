@@ -177,17 +177,6 @@
 			]
 		},
 		{
-			"source":"Dainik Bhaskar",
-			"position":"12",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.bhaskar.com/dainikbhaskar2010/scripts/bhaskar-rss.php?cat_id=2322"
-			 }
-
-			]
-		},
-		{
 			"source":"Janokti",
 			"position":"13",
 			"paths":[
@@ -758,17 +747,6 @@
 			 {
 			"category":"Latest",
 			"url":"http://m.ibnkhabar.com/"
-			 }
-
-			]
-		},
-		{
-			"source":"Dainik Bhaskar",
-			"position":"3",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://m.bhaskar.com/home.php"
 			 }
 
 			]
