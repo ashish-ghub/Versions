@@ -52,6 +52,42 @@
 		},
 		
 		{
+			"source":"\u0928\u094d\u092f\u0942\u091c\u093c \u091f\u094d\u0930\u0948\u0915",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.newstracklive.com/rss-feed/oth_national-news.xml"
+			 },
+			 {
+			"category":"Political",
+			"url":"http://www.newstracklive.com/rss-feed/oth_politics-news.xml"
+			 },
+			 {
+			"category":"Bollywood",
+			"url":"http://www.newstracklive.com/rss-feed/oth_movie-review.xml"
+			 },
+			 {
+			"category":"Sports", 
+			"url":"http://www.newstracklive.com/rss-feed/oth_sport-news.xml"
+			 },
+			 {
+			"category":"Business", 
+			"url":"http://www.newstracklive.com/rss-feed/oth_corporate-news.xml"
+			 },
+			 {
+			"category":"Health", 
+			"url":"http://www.newstracklive.com/rss-feed/oth_health-tips.xml"
+			 },
+			 {
+			"category":"Lifestyle", 
+			"url":"http://www.newstracklive.com/rss-feed/oth_lifestyle-hacks.xml"
+			 }
+			 
+
+			]
+		},
+		{
 			"source":"\u0928\u094D\u092F\u0942\u095B 18",
 			"position":"2",
 			"paths":[
@@ -357,6 +393,19 @@
 
 			]
 		},
+		
+		{
+			"source":"\u0928\u094d\u092f\u0942\u091c\u093c \u091f\u094d\u0930\u0948\u0915",
+			"position":"2",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.newstracklive.com/"
+			 }
+
+			]
+		}, 
+		
 		{
 			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u0938\u0915\u0947\u092b\u0947",
 			"position":"2",
