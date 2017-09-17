@@ -4,7 +4,7 @@
 	{"desc" : "Version  3.0.0  New features: "},
 	{"desc" : "Look and feel great improvement"},
 	{"desc" : "Added lots of news parter, can see full news in app"},
-	{"desc" : "fixed many exiting bugs"}
+	{"desc" : "fixed many existing bugs"}
 ],
 "ads":{
 	"imgURL":"http://freeapps-expertdev.rhcloud.com/logos/AdsFreeMSGBanner.png",
@@ -76,7 +76,7 @@
 			"position":"2",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
-			"passAnaliticsOnRedirection" :"?utm_source=Hindi News 360&&utm_medium=android_app",
+			"passAnaliticsOnRedirection" :"utm_source=Hindi News 360&&utm_medium=android_app",
 			"paths":[
 			 {
 			"category":"Latest",
