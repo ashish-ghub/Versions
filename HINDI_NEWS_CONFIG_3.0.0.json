@@ -76,13 +76,40 @@
 			"position":"2",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
-			"passAnaliticsOnRedirection" :"utm_source=Hindi News 360&&utm_medium=android_app",
+			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&&utm_medium=android_app",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.khabarnonstop.com/category/lifestyle/beauty-tips/feed/"
+			"url":"http://www.khabarnonstop.com/category/national-news/feed/"
+			 },
+			 {
+			 "category":"Sports",
+			 "url":"http://www.khabarnonstop.com/category/sports/feed/"
+			 },		 
+			 {
+			 "category":"Bollywood",
+			 "url":"http://www.khabarnonstop.com/category/bollywood/feed/"
+			 },		 
+			 {
+			 "category":"Technology",
+			 "url":"http://www.khabarnonstop.com/category/lifestyle/sci-tech/feed/"
+			 },		 
+			 {
+			 "category":"Health",
+			 "url":"http://www.khabarnonstop.com/category/lifestyle/health/feed/"
+			 },		 
+			 {
+			 "category":"Lifestyle",
+			 "url":"http://www.khabarnonstop.com/category/lifestyle/beauty-tips/feed/"
+			 },		 
+			 {
+			 "category":"Special",
+			 "url":"http://www.khabarnonstop.com/category/special/feed/"
+			 },
+			 {
+			 "category":"Amazing Facts",
+			 "url":"http://www.khabarnonstop.com/category/azab-gazab/feed/"
 			 }
-
 			]
 		},
 		{
@@ -134,6 +161,7 @@
 			"position":"6",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
+			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
 			"displayNoOfLines": "7",
 			"paths":[
 			 {
@@ -227,23 +255,6 @@
 			]
 		},
 		
-
-		
-		{
-			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
-			"name_en":"Cnm sports",
-			"isNewsPartner":"true",
-			"position":"9",
-			"showOtherNewsLinks":"true",
-						
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://hindi.cnmsports.com/edappsfeed.xml"
-			 }
-
-			]
-		},
 		{
 			"source":"\u0930\u094b\u091a\u0915 \u0928\u094d\u092f\u0942\u095b",
 			"name_en":"Rochak news",
@@ -441,7 +452,6 @@
 			]
 		},
 				
-		
 		{
 			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0915\u0940\u0921\u093c\u093e",
 			"name_en":"Sports keeda",
@@ -453,6 +463,22 @@
 			 {
 			"category":"Latest",
 			"url":"http://hindi.sportskeeda.com/feed"
+			 }
+
+			]
+		},
+		
+		{
+			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
+			"name_en":"Cnm sports",
+			"isNewsPartner":"true",
+			"position":"20",
+			"showOtherNewsLinks":"true",
+						
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.cnmsports.com/edappsfeed.xml"
 			 }
 
 			]
@@ -486,12 +512,12 @@
 			"source":"\u0916\u092c\u0930 \u0928\u0949\u0928\u0938\u094d\u091f\u0949\u092a",
 			"name_en":"Khabar nonstop",
 			"isNewsPartner":"true",
-			"passAnaliticsOnRedirection" :"utm_source=Hindi News 360&utm_medium=android_app",
+			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
 			"position":"2",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.khabarnonstop.com?utm_source=Hindi News 360&utm_medium=android_app"
+			"url":"http://www.khabarnonstop.com?utm_source=Hindi_News_360&utm_medium=android_app"
 			 }
 
 			]
@@ -593,7 +619,7 @@
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.frankfunnews.com"
+			"url":"http://www.frankfunnews.com?utm_source=Hindi_News_360&utm_medium=android_app"
 			 }
 
 			]
