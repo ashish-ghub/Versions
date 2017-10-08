@@ -73,7 +73,7 @@
 		{
 			"source":"\u0916\u092c\u0930 \u0928\u0949\u0928\u0938\u094d\u091f\u0949\u092a",
 			"name_en":"Khabar nonstop",
-			"position":"2",
+			"position":"3",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&&utm_medium=android_app",
@@ -115,7 +115,7 @@
 		{
 			"source":"\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0916\u092c\u0930",
 			"name_en":"Rashtriya khabar",
-			"position":"3",
+			"position":"4",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"displayNoOfLines": "7",
@@ -130,7 +130,7 @@
 		{
 			"source":"\u0917\u0941\u0917\u0932 \u0938\u092E\u093E\u091A\u093E\u0930",
 			"name_en":"Google news",
-			"position":"4",
+			"position":"5",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -143,7 +143,7 @@
 		{
 			"source":"\u091f\u0941\u0921\u0947 \u0938\u092e\u093e\u091a\u093e\u0930",
 			"name_en":"Today samachar",
-			"position":"5",
+			"position":"6",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"displayNoOfLines": "7",
@@ -155,75 +155,11 @@
 			]
 		},
 		
-		{
-			"source":"\u092b\u094d\u0930\u0948\u0902\u0915 \u092b\u0928 \u0928\u094d\u092f\u0942\u095b",
-			"name_en":"Frank fun news",
-			"position":"6",
-			"isNewsPartner":"true",
-			"showOtherNewsLinks":"true",
-			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
-			"displayNoOfLines": "7",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.frankfunnews.com/category/news/feed/"
-			 },
-			 {
-			"category":"Political",
-			"url":"http://www.frankfunnews.com/category/trending/feed/"
-			 },
-			 {
-			"category":"Bollywood",
-			"url":"http://www.frankfunnews.com/category/entertainment/feed/"
-			 },
-			 {
-			"category":"Culture", 
-			"url":"http://www.frankfunnews.com/category/culture/feed/"
-			 },
-			 {
-			"category":"sports", 
-			"url":"http://www.frankfunnews.com/category/sports/feed/"
-			 },
-			 {
-			"category":"Health", 
-			"url":"http://www.frankfunnews.com/category/health-fitness/feed/"
-			 },
-			 {
-			"category":"Lifestyle", 
-			"url":"http://www.frankfunnews.com/category/lifestyle/feed/"
-			 },
-			 {
-			"category":"Inspiration", 
-			"url":" http://www.frankfunnews.com/category/inspiring/feed/"
-			 },
-			 {
-			"category":"Humor", 
-			"url":"http://www.frankfunnews.com/category/humor/feed/"
-			 }
-					 
-			]
-		},
-		
-				
-		{
-			"source":"\u0921\u0947\u0932\u0940 \u0939\u0902\u091f \u0928\u094d\u092f\u0942\u091c",
-			"name_en":"Daily hunt news",
-			"position":"7",
-			"isNewsPartner":"true",
-			"showOtherNewsLinks":"true",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.dailyhuntnews.com/rss-feed/123"
-			 }
-
-			]
-		},
 		
 		{
 			"source":"\u0907\u092a\u0924\u094d\u0930\u0915\u093e\u0930",
 			"name_en":"Epatrakar",
-			"position":"8",
+			"position":"7",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"displayNoOfLines": "7",
@@ -252,6 +188,22 @@
 			"category":"Health",
 			"url":"http://epatrakar.com/category/health/feed/"
 			 }
+			]
+		},
+		
+				
+		{
+			"source":"\u0921\u0947\u0932\u0940 \u0939\u0902\u091f \u0928\u094d\u092f\u0942\u091c",
+			"name_en":"Daily hunt news",
+			"position":"9",
+			"isNewsPartner":"true",
+			"showOtherNewsLinks":"true",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.dailyhuntnews.com/rss-feed/123"
+			 }
+
 			]
 		},
 		
@@ -412,6 +364,20 @@
 
 			]
 		},
+				
+		{
+			"source":"\u0926\u0947\u0936\u092C\u0928\u094D\u0927\u0941",
+			"name_en":"Desh bandhu",
+			"showOtherNewsLinks":"true",
+			"position":"18",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.deshbandhu.co.in/rss/leadstory"
+			 }
+
+			]
+		},
 		
 		{
 			"source":"\u092E\u0939\u093E\u0928\u0917\u0930 \u091F\u093E\u0907\u092E\u094D\u0938",
@@ -437,36 +403,57 @@
 
 			]
 		},
-				
+		
+		
 		{
-			"source":"\u0926\u0947\u0936\u092C\u0928\u094D\u0927\u0941",
-			"name_en":"Desh bandhu",
-			"showOtherNewsLinks":"true",
-			"position":"18",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.deshbandhu.co.in/rss/leadstory"
-			 }
-
-			]
-		},
-				
-		{
-			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0915\u0940\u0921\u093c\u093e",
-			"name_en":"Sports keeda",
-			"position":"19",
+			"source":"\u092b\u094d\u0930\u0948\u0902\u0915 \u092b\u0928 \u0928\u094d\u092f\u0942\u095b",
+			"name_en":"Frank fun news",
+			"position":"20",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
+			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
 			"displayNoOfLines": "7",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://hindi.sportskeeda.com/feed"
+			"url":"http://www.frankfunnews.com/category/news/feed/"
+			 },
+			 {
+			"category":"Political",
+			"url":"http://www.frankfunnews.com/category/trending/feed/"
+			 },
+			 {
+			"category":"Bollywood",
+			"url":"http://www.frankfunnews.com/category/entertainment/feed/"
+			 },
+			 {
+			"category":"Culture", 
+			"url":"http://www.frankfunnews.com/category/culture/feed/"
+			 },
+			 {
+			"category":"sports", 
+			"url":"http://www.frankfunnews.com/category/sports/feed/"
+			 },
+			 {
+			"category":"Health", 
+			"url":"http://www.frankfunnews.com/category/health-fitness/feed/"
+			 },
+			 {
+			"category":"Lifestyle", 
+			"url":"http://www.frankfunnews.com/category/lifestyle/feed/"
+			 },
+			 {
+			"category":"Inspiration", 
+			"url":" http://www.frankfunnews.com/category/inspiring/feed/"
+			 },
+			 {
+			"category":"Humor", 
+			"url":"http://www.frankfunnews.com/category/humor/feed/"
 			 }
-
+					 
 			]
 		},
+			
 		
 		{
 			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
@@ -483,6 +470,7 @@
 
 			]
 		}
+		
 	
 		]
 }
