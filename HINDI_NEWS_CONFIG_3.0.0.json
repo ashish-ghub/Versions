@@ -7,7 +7,7 @@
 	{"desc" : "fixed many existing bugs"}
 ],
 "ads":{
-	"imgURL":"http://freeapps-expertdev.rhcloud.com/logos/AdsFreeMSGBanner.png",
+	"imgURL":"https://hindinewsgk.firebaseapp.com/images/AdsFreeMSGBanner.png",
 	"redirect":"market://details?id=expert.apps.sms.wishes&hl=en"
 },
 
@@ -112,29 +112,17 @@
 			 }
 			]
 		},
+		
 		{
-			"source":"\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0916\u092c\u0930",
-			"name_en":"Rashtriya khabar",
+			"source":"\u092A\u0902\u091C\u093E\u092C \u0915\u0947\u0938\u0930\u0940",
+			"name_en":"Punjab Kesari dot com",
 			"position":"4",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
-			"displayNoOfLines": "7",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"https://www.rashtriyakhabar.com/feed/"
-			 }
-
-			]
-		},
-		{
-			"source":"\u0917\u0941\u0917\u0932 \u0938\u092E\u093E\u091A\u093E\u0930",
-			"name_en":"Google news",
-			"position":"5",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"https://news.google.co.in/news/feeds?cf=all&ned=hi_in&hl=hi&output=rss"
+			"url":"http://punjabkesari.com/feed/"
 			 }
 
 			]
@@ -143,10 +131,10 @@
 		{
 			"source":"\u091f\u0941\u0921\u0947 \u0938\u092e\u093e\u091a\u093e\u0930",
 			"name_en":"Today samachar",
-			"position":"6",
+			"position":"5",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
-			"displayNoOfLines": "7",
+			"displayNoOfLines": "8",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -154,15 +142,46 @@
 			 }
 			]
 		},
-		
+		{
+			"source":"\u0917\u0941\u0917\u0932 \u0938\u092E\u093E\u091A\u093E\u0930",
+			"name_en":"Google news",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"https://news.google.com/news/rss/?ned=hi_in&hl=hi&gl=IN"
+			 },
+			 {
+			"category":"India",
+			"url":"https://news.google.com/news/rss/?ned=hi_in&hl=hi&gl=IN"
+			 },
+			 {
+			"category":"Sports",
+			"url":"https://news.google.com/news/rss/headlines/section/topic/SPORTS.hi_in/%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%95%E0%A5%82%E0%A4%A6?ned=hi_in&hl=hi&gl=IN"
+			 },
+			 {
+			"category":"Entertainment",
+			"url":"https://news.google.com/news/headlines/section/topic/ENTERTAINMENT.hi_in/%E0%A4%AE%E0%A4%A8%E0%A5%8B%E0%A4%B0%E0%A4%82%E0%A4%9C%E0%A4%A8?ned=hi_in&hl=hi&gl=IN"
+			 },
+			 {
+			"category":"World",
+			"url":"https://news.google.com/news/rss/headlines/section/topic/WORLD.hi_in/%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5?ned=hi_in&hl=hi&gl=IN"
+			 },
+			 {
+			"category":"Business",
+			"url":"https://news.google.com/news/headlines/section/topic/BUSINESS.hi_in/%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8B%E0%A4%AC%E0%A4%BE%E0%A4%B0?ned=hi_in&hl=hi&gl=IN"
+			 }
+
+			]
+		},
 		
 		{
 			"source":"\u0907\u092a\u0924\u094d\u0930\u0915\u093e\u0930",
 			"name_en":"Epatrakar",
-			"position":"7",
+			"position":"8",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
-			"displayNoOfLines": "7",
+			"displayNoOfLines": "8",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -191,37 +210,107 @@
 			]
 		},
 		
+		{
+			"source":"\u0928\u094d\u092f\u0942\u095b \u0930\u093f\u092e\u093e\u0907\u0902\u0921",
+			"name_en":"News Remind",
+			"isNewsPartner":"true",
+			"showOtherNewsLinks":"true",
+			"position":"9",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.newsremind.com//feeds/posts/default/-/News?alt=rss&start-index=1&max-results=12"
+			 },
+			 {
+			"category":"Horoscope",
+			"url":"http://www.newsremind.com//feeds/posts/default/-/horoscope?alt=rss&start-index=1&max-results=5"
+			 },
+			 {
+			"category":"Bollywood",
+			"url":"http://www.newsremind.com//feeds/posts/default/-/Bollywood?alt=rss&start-index=1&max-results=12"
+			 },
+			 {
+			"category":"Lifestyle",
+			"url":"http://www.newsremind.com//feeds/posts/default/-/Lifestyle?alt=rss&start-index=1&max-results=12"
+			 },
+			 {
+			"category":"Sports",
+			"url":"http://www.newsremind.com//feeds/posts/default/-/Sport?alt=rss&start-index=1&max-results=10"
+			 },
+			 {
+			"category":"Health",
+			"url":"http://www.newsremind.com//feeds/posts/default/-/Health?alt=rss&start-index=1&max-results=10"
+			 }
+			
+			 
+			]
+		},
 				
 		{
-			"source":"\u0921\u0947\u0932\u0940 \u0939\u0902\u091f \u0928\u094d\u092f\u0942\u091c",
-			"name_en":"Daily hunt news",
+			"source":"\u092C\u0940\u092C\u0940\u0938\u0940 \u0939\u093F\u0928\u094D\u0926\u0940",
 			"position":"9",
-			"isNewsPartner":"true",
+			"name_en":"Bbc news",
 			"showOtherNewsLinks":"true",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.dailyhuntnews.com/rss-feed/123"
+			"url":"http://feeds.bbci.co.uk/hindi/rss.xml"
 			 }
 
 			]
 		},
-		
 		{
-			"source":"\u0930\u094b\u091a\u0915 \u0928\u094d\u092f\u0942\u095b",
-			"name_en":"Rochak news",
-			"position":"10",
+			"source":"\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0916\u092c\u0930",
+			"name_en":"Rashtriya khabar",
+			"position":"9",
+			"isNewsPartner":"true",
+			"showOtherNewsLinks":"true",
+			"displayNoOfLines": "7",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"https://www.rashtriyakhabar.com/feed/"
+			 }
+
+			]
+		},
+		{
+			"source":"24 \u0939\u093f\u0902\u0926\u0940 \u0928\u094d\u092f\u0942\u095b",
+			"name_en":"24 Hindi news",
+			"position":"9",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://rochaknews.com/allnews/rssfeed/"
+			"url":"http://24hindinews.com/rss/?rss=india"
+			 },
+			 {
+			 "category":"Entertainment",
+			 "url":" http://24hindinews.com/rss/?rss=entertainment"
+			 },		 
+			
+			 {
+			 "category":"Sports",
+			 "url":"http://24hindinews.com/rss/?rss=sports"
+			 },		 
+			
+			 {
+			 "category":"Ajeeb Gareeb",
+			 "url":"http://24hindinews.com/rss/?rss=ajeeb-gareeb"
+			 },		 
+			 {
+			 "category":"Lifestyle",
+			 "url":"http://24hindinews.com/rss/?rss=lifestyle"
+			 },		 
+			 {
+			 "category":"Viral Videos",
+			 "url":"http://24hindinews.com/rss/?rss=viral-videos"
 			 }
-
 			]
 		},
+	
 		{
 			"source":"\u0939\u093F\u0902\u0926\u0941\u0938\u094D\u0924\u093E\u0928",
 			"name_en":"Live hindustan",
@@ -255,7 +344,7 @@
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://hindi.oneindia.com/rss/hindi-news-fb.xml"
+			"url":"https://hindi.oneindia.com/rss/hindi-fb.xml"
 			 }
 
 			]
@@ -319,43 +408,14 @@
 
 			]
 		},
-		{
-			"source":"\u0928\u0935\u092D\u093E\u0930\u0924 \u091F\u093E\u0907\u092E\u094D\u0938",
-			"name_en":"Nav bharat times",
-			"showOtherNewsLinks":"true",
-			"position":"16",
-			"paths":[
-			 {
-			"category":"Latest", 
-			"url":"http://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
-			 }
-
-			]
-		},
-	
-		{
-			"source":"\u0928\u0908\u0926\u0941\u0928\u093f\u092f\u093e",
-			"name_en":"Nai dunia",
-			"showOtherNewsLinks":"true",
-			"position":"17",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://rss.jagran.com/naidunia/topnews.xml"
-			 },
-			 {
-			"category":"Political",
-			"url":"http://rss.jagran.com/naidunia/latest-news.xml"
-			 }
-
-			]
-		},
 		
+	
+				
 		{
 			"source":"\u0939\u0930\u093F\u092D\u0942\u092E\u093F",
 			"name_en":"Hari bhoomi",
 			"showOtherNewsLinks":"true",
-			"position":"18",
+			"position":"16",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -369,7 +429,7 @@
 			"source":"\u0926\u0947\u0936\u092C\u0928\u094D\u0927\u0941",
 			"name_en":"Desh bandhu",
 			"showOtherNewsLinks":"true",
-			"position":"18",
+			"position":"16",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -382,7 +442,7 @@
 		{
 			"source":"\u092E\u0939\u093E\u0928\u0917\u0930 \u091F\u093E\u0907\u092E\u094D\u0938",
 			"name_en":"Mahanagar times",
-			"position":"19",
+			"position":"17",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -394,7 +454,7 @@
 		{
 			"source":"\u092A\u094D\u0930\u0947\u0938\u0928\u094B\u091F",
 			"name_en":"Pressnote",
-			"position":"20",
+			"position":"17",
 			"paths":[
 			 {
 			"category":"Latest", 
@@ -403,25 +463,76 @@
 
 			]
 		},
+			{
+			"source":"\u0930\u094b\u091a\u0915 \u0928\u094d\u092f\u0942\u095b",
+			"name_en":"Rochak news",
+			"position":"17",
+			"isNewsPartner":"true",
+			"showOtherNewsLinks":"true",
+			
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://rochaknews.com/allnews/rssfeed/"
+			 }
+
+			]
+		},
+		{
+			"source":"\u0928\u0935\u092D\u093E\u0930\u0924 \u091F\u093E\u0907\u092E\u094D\u0938",
+			"name_en":"Nav bharat times",
+			"showOtherNewsLinks":"true",
+			"position":"18",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"http://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+			 }
+
+			]
+		},
+				
+		{
+			"source":"\u0921\u0947\u0932\u0940 \u0939\u0902\u091f \u0928\u094d\u092f\u0942\u091c",
+			"name_en":"Daily hunt news",
+			"position":"19",
+			"isNewsPartner":"true",
+			"showOtherNewsLinks":"true",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.dailyhuntnews.com/rss-feed/123"
+			 }
+
+			]
+		},
 		
+		{
+			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
+			"name_en":"Cnm sports",
+			"isNewsPartner":"true",
+			"position":"20",
+			"showOtherNewsLinks":"true",
+						
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://hindi.cnmsports.com/edappsfeed.xml"
+			 }
+
+			]
+		},
 		
 		{
 			"source":"\u092b\u094d\u0930\u0948\u0902\u0915 \u092b\u0928 \u0928\u094d\u092f\u0942\u095b",
 			"name_en":"Frank fun news",
-			"position":"20",
+			"position":"21",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
 			"displayNoOfLines": "7",
 			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.frankfunnews.com/category/news/feed/"
-			 },
-			 {
-			"category":"Political",
-			"url":"http://www.frankfunnews.com/category/trending/feed/"
-			 },
+			
 			 {
 			"category":"Bollywood",
 			"url":"http://www.frankfunnews.com/category/entertainment/feed/"
@@ -451,23 +562,6 @@
 			"url":"http://www.frankfunnews.com/category/humor/feed/"
 			 }
 					 
-			]
-		},
-			
-		
-		{
-			"source":"CNM \u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0000",
-			"name_en":"Cnm sports",
-			"isNewsPartner":"true",
-			"position":"20",
-			"showOtherNewsLinks":"true",
-						
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://hindi.cnmsports.com/edappsfeed.xml"
-			 }
-
 			]
 		}
 		
@@ -550,6 +644,8 @@
 
 			]
 		}, 
+		
+		
 		{
 			"source":"\u0921\u0949\u092F\u091A\u0947 \u0935\u0947\u0932\u0947",
 			"name_en":"Deutsche welle",
@@ -576,6 +672,20 @@
 			]
 		},
 		{
+			"source":"\u092A\u0902\u091C\u093E\u092C \u0915\u0947\u0938\u0930\u0940",
+			"name_en":"Punjab Kesari dot com",
+			"isNewsPartner":"true",
+			"position":"6",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://punjabkesari.com/"
+			 }
+
+			]
+		},
+		
+		{
 			"source":"\u0917\u0941\u0917\u0932 \u0938\u092E\u093E\u091A\u093E\u0930",
 			"name_en":"Google news",
 			"position":"7",
@@ -599,19 +709,7 @@
 
 			]
 		},
-		{
-			"source":"\u092b\u094d\u0930\u0948\u0902\u0915 \u092b\u0928 \u0928\u094d\u092f\u0942\u095b",
-			"name_en":"Frank fun news",
-			"isNewsPartner":"true",
-			"position":"8",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.frankfunnews.com?utm_source=Hindi_News_360&utm_medium=android_app"
-			 }
-
-			]
-		},
+	
 		{
 			"source":"\u091C\u0940 \u0928\u094D\u092F\u0942\u091C",
 			"name_en":"z news",
@@ -637,13 +735,37 @@
 			]
 		},
 		{
-			"source":"\u0939\u093F\u0902\u0926\u0941\u0938\u094D\u0924\u093E\u0928",
-			"name_en":"Live hindustan",
+			"source":"INH \u0928\u094d\u092f\u0942\u095b",
+			"name_en":"INH News",
 			"position":"11",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://m.livehindustan.com/"
+			"url":"https://www.inhnews.in"
+			 }
+
+			]
+		},
+		{
+			"source":"24 \u0939\u093f\u0902\u0926\u0940 \u0928\u094d\u092f\u0942\u095b",
+			"name_en":"24 Hindi news",
+			"position":"11",
+			"isNewsPartner":"true",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.24hindinews.com/"
+			 }
+			 ]
+		},
+		{
+			"source":"\u0928\u094d\u092f\u0942\u095b \u0930\u093f\u092e\u093e\u0907\u0902\u0921",
+			"name_en":"News Remind",
+			"position":"12",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.newsremind.com"
 			 }
 
 			]
@@ -661,6 +783,8 @@
 
 			]
 		},
+		
+		
        	{
 			"source":"\u0926\u093f\u0932\u0947\u0930 \u0938\u092e\u093e\u091a\u093e\u0930",
 			"name_en":"Diler samachar",
@@ -766,6 +890,20 @@
 			]
 		},
 		{
+			"source":"\u092b\u094d\u0930\u0948\u0902\u0915 \u092b\u0928 \u0928\u094d\u092f\u0942\u095b",
+			"name_en":"Frank fun news",
+			"isNewsPartner":"true",
+			"position":"21",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"http://www.frankfunnews.com?utm_source=Hindi_News_360&utm_medium=android_app"
+			 }
+
+			]
+		},
+		
+		{
 			"source":"\u0915\u094d\u0930\u093f\u0915\u0947\u091f \u090f\u0902\u0921 \u092e\u094b\u0930",
 			"name_en":"Cricket n more",
 			"isNewsPartner":"true",
@@ -802,19 +940,7 @@
 
 			]
 		},
-		{
-			"source":"\u0926\u093f\u0932\u0947\u0930 \u0938\u092e\u093e\u091a\u093e\u0930",
-			"name_en":"Diler samachar",
-			"isNewsPartner":"true",
-			"position":"24",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.dilersamachar.com/"
-			 }
-
-			]
-		},
+		
 		{
 			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0915\u0940\u0921\u093c\u093e",
 			"name_en":"Sports keeda",
