@@ -20,7 +20,7 @@
 		{
 			"source":"\u0928\u094d\u092f\u0942\u091c\u093c \u091f\u094d\u0930\u0948\u0915",
 			"name_en":"News track",
-			"position":"1",
+			"position":"8",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"paths":[
@@ -76,7 +76,7 @@
 			"position":"3",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
-			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&&utm_medium=android_app",
+			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
 			"paths":[
 			 {
 			"category":"Latest",
@@ -269,7 +269,7 @@
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"https://www.rashtriyakhabar.com/feed/"
+			"url":"http://www.rashtriyakhabar.com/feed/"
 			 }
 
 			]
@@ -520,48 +520,6 @@
 			"url":"http://hindi.cnmsports.com/edappsfeed.xml"
 			 }
 
-			]
-		},
-		
-		{
-			"source":"\u092b\u094d\u0930\u0948\u0902\u0915 \u092b\u0928 \u0928\u094d\u092f\u0942\u095b",
-			"name_en":"Frank fun news",
-			"position":"21",
-			"isNewsPartner":"true",
-			"showOtherNewsLinks":"true",
-			"passAnaliticsOnRedirection" :"utm_source=Hindi_News_360&utm_medium=android_app",
-			"displayNoOfLines": "7",
-			"paths":[
-			
-			 {
-			"category":"Bollywood",
-			"url":"http://www.frankfunnews.com/category/entertainment/feed/"
-			 },
-			 {
-			"category":"Culture", 
-			"url":"http://www.frankfunnews.com/category/culture/feed/"
-			 },
-			 {
-			"category":"sports", 
-			"url":"http://www.frankfunnews.com/category/sports/feed/"
-			 },
-			 {
-			"category":"Health", 
-			"url":"http://www.frankfunnews.com/category/health-fitness/feed/"
-			 },
-			 {
-			"category":"Lifestyle", 
-			"url":"http://www.frankfunnews.com/category/lifestyle/feed/"
-			 },
-			 {
-			"category":"Inspiration", 
-			"url":" http://www.frankfunnews.com/category/inspiring/feed/"
-			 },
-			 {
-			"category":"Humor", 
-			"url":"http://www.frankfunnews.com/category/humor/feed/"
-			 }
-					 
 			]
 		}
 		
