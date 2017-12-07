@@ -20,37 +20,37 @@
 		{
 			"source":"\u0928\u094d\u092f\u0942\u091c\u093c \u091f\u094d\u0930\u0948\u0915",
 			"name_en":"News track",
-			"position":"8",
+			"position":"1",
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"paths":[
 			 {
 			"category":"Latest",
-			"url":"http://www.newstracklive.com/rss-feed/oth_national-news.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_national-news.xml"
 			 },
 			 {
 			"category":"Political",
-			"url":"http://www.newstracklive.com/rss-feed/oth_politics-news.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_politics-news.xml"
 			 },
 			 {
 			"category":"Bollywood",
-			"url":"http://www.newstracklive.com/rss-feed/oth_movie-review.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_movie-review.xml"
 			 },
 			 {
 			"category":"Sports", 
-			"url":"http://www.newstracklive.com/rss-feed/oth_sport-news.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_sport-news.xml"
 			 },
 			 {
 			"category":"Business", 
-			"url":"http://www.newstracklive.com/rss-feed/oth_corporate-news.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_corporate-news.xml"
 			 },
 			 {
 			"category":"Health", 
-			"url":"http://www.newstracklive.com/rss-feed/oth_health-tips.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_health-tips.xml"
 			 },
 			 {
 			"category":"Lifestyle", 
-			"url":"http://www.newstracklive.com/rss-feed/oth_lifestyle-hacks.xml"
+			"url":"https://www.newstracklive.com/rss-feed/oth_lifestyle-hacks.xml"
 			 }
 			 
 			]
@@ -259,21 +259,7 @@
 
 			]
 		},
-		{
-			"source":"\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0916\u092c\u0930",
-			"name_en":"Rashtriya khabar",
-			"position":"9",
-			"isNewsPartner":"true",
-			"showOtherNewsLinks":"true",
-			"displayNoOfLines": "7",
-			"paths":[
-			 {
-			"category":"Latest",
-			"url":"http://www.rashtriyakhabar.com/feed/"
-			 }
-
-			]
-		},
+		
 		{
 			"source":"24 \u0939\u093f\u0902\u0926\u0940 \u0928\u094d\u092f\u0942\u095b",
 			"name_en":"24 Hindi news",
@@ -311,6 +297,32 @@
 			]
 		},
 	
+		{
+			"source":"\u0938\u094d\u092a\u094b\u0930\u094d\u091f\u094d\u0938\u0915\u0940\u0921\u093c\u093e",
+			"name_en":"Sports keeda",
+			"showOtherNewsLinks":"true",
+			"position":"10",
+			"paths":[
+			 {
+			"category":"Latest",
+			"url":"https://hindi.sportskeeda.com/feed"
+			 }
+
+			]
+		},
+		{
+			"source":"\u0928\u0935\u092D\u093E\u0930\u0924 \u091F\u093E\u0907\u092E\u094D\u0938",
+			"name_en":"Nav bharat times",
+			"showOtherNewsLinks":"true",
+			"position":"11",
+			"paths":[
+			 {
+			"category":"Latest", 
+			"url":"https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+			 }
+
+			]
+		},
 		{
 			"source":"\u0939\u093F\u0902\u0926\u0941\u0938\u094D\u0924\u093E\u0928",
 			"name_en":"Live hindustan",
@@ -409,7 +421,6 @@
 			]
 		},
 		
-	
 				
 		{
 			"source":"\u0939\u0930\u093F\u092D\u0942\u092E\u093F",
@@ -486,7 +497,7 @@
 			"paths":[
 			 {
 			"category":"Latest", 
-			"url":"http://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
+			"url":"https://navbharattimes.indiatimes.com/rssfeedsdefault.cms"
 			 }
 
 			]
