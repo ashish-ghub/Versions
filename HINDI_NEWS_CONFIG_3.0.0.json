@@ -24,13 +24,14 @@
 			"isNewsPartner":"true",
 			"showOtherNewsLinks":"true",
 			"paths":[
-			 {
-			"category":"Latest",
-			"url":"https://www.newstracklive.com/rss-feed/oth_national-news.xml"
-			 },
+			
 			 {
 			"category":"Political",
 			"url":"https://www.newstracklive.com/rss-feed/oth_politics-news.xml"
+			 },
+			 {
+			"category":"Latest",
+			"url":"https://www.newstracklive.com/rss-feed/oth_national-news.xml"
 			 },
 			 {
 			"category":"Bollywood",
